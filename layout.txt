@@ -1,0 +1,3 @@
+http://configure.ergodox-ez.com/keyboard_layouts/kvjzrm/edit
+
+Note: Change name to compile
